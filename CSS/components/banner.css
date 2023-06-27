@@ -1,0 +1,17 @@
+.banner{
+	background-image: linear-gradient(-225deg,rgb(0,0,0,0.6) 0%, rgb(0,0,0,0.6) 50%), url(../../images/milky-way.jpeg);
+	color:white;
+	padding: 125px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size:50px;
+}
+
+.banner h2{
+	font-size:30px;
+	font-weight: lighter; opacity: 0,8;
+	margin-bottom: 40px;
+}
